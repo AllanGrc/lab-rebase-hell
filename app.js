@@ -1,4 +1,4 @@
-console.log('Inicio de la app');
+console.log("Inicio de la app");
 // Modulo A: validacion de formularios
 // Modulo B: conexion a base de datos
-console.log('Modulo C (Trabajo de Bob)');
+console.log("Modulo C (Trabajo de Bob)");
